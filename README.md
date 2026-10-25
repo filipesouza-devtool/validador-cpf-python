@@ -28,6 +28,3 @@ O projeto foi pensado e estruturado para ser extremamente eficiente, rodando de 
 1. Certifica-te de que tens o **Python** instalado no teu dispositivo (ou um ambiente mobile compatível como Pydroid 3 / PyramIDE).
 2. Clona este repositório ou descarrega o ficheiro `main.py`.
 3. Executa o script:
-
-```bash
-python main.py

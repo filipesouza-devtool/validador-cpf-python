@@ -26,5 +26,5 @@ O projeto foi pensado e estruturado para ser extremamente eficiente, rodando de 
 ## 🚀 Como Executar
 
 1. Certifica-te de que tens o **Python** instalado no teu dispositivo (ou um ambiente mobile compatível como Pydroid 3 / PyramIDE).
-2. Clona este repositório ou descarrega o ficheiro `main.py`.
+2. Clona este repositório ou descarrega o ficheiro `interface_valida_cpf.py, valida_cpf.py`
 3. Executa o script:
